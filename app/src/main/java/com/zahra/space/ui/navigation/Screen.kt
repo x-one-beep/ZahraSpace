@@ -1,0 +1,26 @@
+package com.zahra.space.ui.navigation
+
+sealed class Screen(val route: String) {
+    data object Splash : Screen("splash")
+    data object Onboarding : Screen("onboarding")
+    data object Dashboard : Screen("dashboard")
+    data object Quran : Screen("quran")
+    data object QuranRead : Screen("quran_read/{surahId}/{ayat}")
+    data object QuranHafalan : Screen("quran_hafalan/{surahId}")
+    data object Dzikir : Screen("dzikir")
+    data object DzikirCounter : Screen("dzikir_counter/{dzikirId}")
+    data object Checklist : Screen("checklist")
+    data object Todo : Screen("todo")
+    data object TodoDetail : Screen("todo_detail/{todoId}")
+    data object TodoCreate : Screen("todo_create")
+    data object Fitness : Screen("fitness")
+    data object FitnessTarget : Screen("fitness_target/{targetId}")
+    data object FitnessLog : Screen("fitness_log")
+    data object Pet : Screen("pet")
+    data object PetDetail : Screen("pet_detail/{petId}")
+    data object PetShop : Screen("pet_shop")
+    data object Game : Screen("game")
+    data object GameWorld : Screen("game_world")
+    data object Profile : Screen("profile")
+    data object Settings : Screen("settings")
+}

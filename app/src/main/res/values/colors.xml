@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna utama Islami -->
+    <color name="islamic_green">#2E7D32</color>
+    <color name="islamic_green_light">#4CAF50</color>
+    <color name="islamic_green_dark">#1B5E20</color>
+    <color name="islamic_gold">#BF942B</color>
+    <color name="islamic_gold_light">#F9A825</color>
+    <color name="islamic_gold_dark">#8D6E00</color>
+    <color name="islamic_navy">#1A237E</color>
+    <color name="islamic_cream">#FFF8E7</color>
+    <color name="islamic_brown">#795548</color>
+    
+    <!-- Warna karakter Zahra -->
+    <color name="zahra_hijab">#000000</color>
+    <color name="zahra_skin">#E2A98C</color>
+    <color name="zahra_cheek">#F0A998</color>
+    <color name="zahra_eyes">#000000</color>
+    <color name="zahra_gamis">#FFF8E7</color>
+    
+    <!-- Status colors -->
+    <color name="status_success">#4CAF50</color>
+    <color name="status_warning">#FFC107</color>
+    <color name="status_error">#F44336</color>
+    <color name="status_info">#2196F3</color>
+    
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

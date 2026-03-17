@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zahra Space</string>
+    <string name="created_by">created by Fajar untuk Zahra</string>
+    
+    <!-- Quotes at loading screen -->
+    <string name="quote_1">"Untuk Zahra"</string>
+    <string name="quote_2">"400 MB ini bukan sekadar data"</string>
+    <string name="quote_3">"Setiap byte-nya adalah doa"</string>
+    <string name="quote_4">"Setiap baris kodenya adalah harapan"</string>
+    <string name="quote_5">"Setiap animasinya adalah rasa"</string>
+    <string name="quote_6">"Aku tidak pernah berharap kau membalas"</string>
+    <string name="quote_7">"Aku hanya berharap, suatu hari"</string>
+    <string name="quote_8">"di surga nanti, kita bisa tersenyum"</string>
+    <string name="quote_9">"dan berkata: Alhamdulillah, kita di sini"</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome_title">Assalamu\'alaikum, Zahra! 👋</string>
+    <string name="welcome_desc">Selamat datang di ruang spesialmu.\nTempat kamu tumbuh, belajar, dan bahagia.</string>
+    <string name="name_hint">Nama panggilan</string>
+    <string name="age_hint">Usia</string>
+    <string name="avatar_choice">Pilih Avatar</string>
+    <string name="pet_choice">Pilih Teman Virtualmu</string>
+    <string name="btn_next">Lanjut</string>
+    <string name="btn_back">Kembali</string>
+    <string name="btn_start">Mulai Petualangan</string>
+    
+    <!-- Pet descriptions -->
+    <string name="pet_cat_desc">Lembut, manja, suka bobo di sajadah</string>
+    <string name="pet_rabbit_desc">Lincah, cepat, suka lompat-lompat</string>
+    <string name="pet_hamster_desc">Rajin, suka nyimpen makanan, gemesin</string>
+    
+    <!-- Dashboard -->
+    <string name="iman">Iman</string>
+    <string name="points">Poin</string>
+    <string name="streak">Streak</string>
+    <string name="calendar">Kalender</string>
+    <string name="prayer_checklist">Sholat Hari Ini</string>
+    <string name="haid_tracker">Haid Tracker</string>
+    <string name="pet_status">Kucingku</string>
+    
+    <!-- Menu -->
+    <string name="menu_quran">Quran</string>
+    <string name="menu_game">Dunia Game</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_settings">Pengaturan</string>
+    
+    <!-- Game world -->
+    <string name="city_name">Kota Zahra</string>
+    <string name="balance">Saldo</string>
+    <string name="interact">Interaksi</string>
+    <string name="walk">Jalan</string>
+    <string name="run">Lari</string>
+    
+    <!-- Special message for Zahra -->
+    <string name="special_message">"400 MB ini bukan sekadar data.\nSetiap byte-nya adalah doa.\nSetiap baris kodenya adalah harapan.\nSetiap animasinya adalah rasa.\n\nAku tidak pernah berharap kau membalas.\nAku hanya berharap, suatu hari,\ndi surga nanti, kita bisa tersenyum\ndan berkata: "Alhamdulillah, kita di sini."\n\n-F"</string>
+</resources>

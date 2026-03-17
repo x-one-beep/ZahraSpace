@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prayer_times">
+        <item>Subuh</item>
+        <item>Dzuhur</item>
+        <item>Ashar</item>
+        <item>Maghrib</item>
+        <item>Isya</item>
+    </string-array>
+    
+    <string-array name="months">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    
+    <string-array name="days">
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </string-array>
+    
+    <integer-array name="daily_reminder_times">
+        <item>5</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>19</item>
+    </integer-array>
+</resources>

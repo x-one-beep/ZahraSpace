@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ZahraSpace" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/islamic_green_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/islamic_green</item>
+        <item name="android:windowBackground">@color/islamic_cream</item>
+        <item name="android:colorPrimary">@color/islamic_green</item>
+        <item name="android:colorPrimaryDark">@color/islamic_green_dark</item>
+        <item name="android:colorAccent">@color/islamic_gold</item>
+    </style>
+    
+    <style name="Theme.ZahraSpace.Splash" parent="Theme.ZahraSpace">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
